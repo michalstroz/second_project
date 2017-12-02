@@ -1,1 +1,1 @@
-I want to be a developer
+This is my second repository
